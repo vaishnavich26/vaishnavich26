@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Vaishnavi Chilumuru  
 
 💡 **Data Specialist with 8+ years of experience in Data Engineering & Analytics**.  
-Currently pursuing my **MS in Data Science (Georgia State University, Dec 2024)**, I specialize in building **scalable data pipelines, predictive models, and business intelligence dashboards** that drive decision-making.  
+**MS in Data Science (Georgia State University, Dec 2024)**, I specialize in building **scalable data pipelines, predictive models, and business intelligence dashboards** that drive decision-making.  
 
 ---
 
